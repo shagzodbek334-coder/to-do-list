@@ -25,16 +25,7 @@ nav {
 
 }
 
-.dark span {
-    border: 1px solid black;
-    width: 50px;
-    height: 50px;
-    padding: 20px;
-    background: #000;
-    color: white;
-    border-radius: 100px;
-    cursor: pointer;
-}
+
 .flex{
     display: flex;
     justify-content: space-between;
@@ -62,12 +53,7 @@ nav {
     margin: 0;
 }
 
-.status {
-    background: #e5e7eb;
-    padding: 4px 10px;
-    border-radius: 10px;
-    font-size: 12px;
-}
+
 
 .desc {
     margin: 10px 0;
